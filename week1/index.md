@@ -1,10 +1,14 @@
-Color:
+# Week 1
 
-# BG
+Please note that this challenge is scheduled to take place from May 18th to May 25th. Participants are required to integrate the provided design into their projects during this time period.
+
+![Drone Website](Drone%20Website%20Design%20Concept.png)
+
+### BG
 
 White: `#FFFFFF`
 
-# Body
+### Body
 
 Blue: `#9BD3FC`
 
@@ -18,6 +22,6 @@ LightBlue: `#25D3E9`
 
 Lightpink: `#F9E9FC`
 
-# Footer
+### Footer
 
 Darkpurple: `#351E39`
